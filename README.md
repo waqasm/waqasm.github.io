@@ -1,24 +1,17 @@
 # **Waqas Mehmood**
+**Backend Software Engineer**
 
-## **Associate Director, Software Engineering**
-Pakistan
-Phone: +92 345 5119833
-Email: wm.awan@gmail.com
-LinkedIn: https://www.linkedin.com/in/waqasmehmood
-Twitter: https://twitter.com/waqasmehmood
+Passionate software Engineer and tech leader who loves to solve problems, build & scale enterprise-grade systems and bring solutions to life. Expertise in backend engineering, microservices, cloud-native development and data ingestion pipelines. Proven track record in leading modernization initiatives, mentoring engineering teams, and delivering high-impact projects across large distributed environments.
+
 
 ---
 
-## **Professional Summary**
-Results-driven Software Engineering Leader with 16+ years of experience designing, building, and scaling enterprise-grade systems. Expertise in backend engineering, microservices, cloud-native development, and data ingestion pipelines. Proven track record in leading modernization initiatives, mentoring engineering teams, and delivering high-impact projects across large distributed environments.
-
----
 
 ## **Core Skills**
-- Technologies: C#, .NET Core, REST APIs, Akka.NET, Kafka, Docker/K8
-- Cloud & DevOps: AWS, Azure DevOps, GitHub, 
-- Data Technologies: MS SQL Server, ETL Pipelines, Distributed Processing
-- Other: Unit Testing (xUnit, Moq), , Messaging Systems
+- **Technologies:** C#, .NET Core, REST APIs, Kafka, Docker/K8
+- **Cloud & DevOps:** AWS, Azure DevOps, GitHub
+- **Data Technologies:** MS SQL Server, ETL Pipelines, Distributed Processing
+
 
 ---
 
@@ -63,3 +56,12 @@ CGPA: 3.92 / 4.0
 - AWS Cloud Practitioner (2020)
 - Microsoft Azure Fundamentals (2020)
 - Microsoft Data Science Essentials (2019)
+
+---
+
+## **Contact Me**
+- Phone: +92 345 5119833
+- Email: wm.awan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/waqasmehmood
+- Twitter: https://twitter.com/waqasmehmood
+
