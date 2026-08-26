@@ -1,67 +1,39 @@
-# **About Me**
-**Backend Software Engineer**
+# Chirpy Starter
 
-Passionate software Engineer and tech leader who loves to solve problems, build & scale enterprise-grade systems and bring solutions to life. Expertise in backend engineering, microservices, cloud-native development and data ingestion pipelines. Proven track record in leading modernization initiatives, mentoring engineering teams, and delivering high-impact projects across large distributed environments.
+[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
+[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
+A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
 
----
+## Why This Starter Exists
 
+When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
 
-## **Core Skills**
-- **Technologies:** C#, .NET Core, REST APIs, Kafka, Docker/K8
-- **Cloud & DevOps:** AWS, Azure DevOps, GitHub
-- **Data Technologies:** MS SQL Server, ETL Pipelines, Distributed Processing
+To unlock all features, the following files must be present in your Jekyll site:
 
+```shell
+.
+├── _config.yml
+├── _plugins
+├── _tabs
+└── index.html
+```
 
----
+This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
 
-## **Experience**
+## Usage
 
-### Associate Director, Software Engineering
-S&P Global — Islamabad, Pakistan (2014 – Present)
-- Lead development for enterprise-scale backend systems enabling data ingestion, processing, and distribution.
-- Modernized legacy COM-based monolith into microservices using .NET Core, Docker, cloud services. Designed key modules: Authentication, Schema Service, Derivations, DLQ for CDC, Backfiller.
-- Mentor engineers and contribute to engineering communities.
-- Technologies: .NET Core, C#, Kafka, Akka.NET, Docker, SQL Server, AWS.
+Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
-### Software Engineer
-F3 Technologies — Rawalpindi, Pakistan (2013 – 2014)
-- Created real-time Tactical Dashboard for ambulance and patient tracking.
-- Built REST APIs, backend services, WCF components.
-- Technologies: ASP.NET MVC, Web API, WCF, jQuery, SQL.
+## Contributing
 
-### Software Engineer
-Allainet — Islamabad, Pakistan (2010 – 2013)
-- Built SEO automation modules and content generation engines.
-- Developed social profile builder with Facebook/Twitter/LinkedIn APIs.
-- Technologies: ASP.NET WebForms, C#, jQuery, JavaScript, Dapper.
+This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
 
-### Software Engineer
-Sorcim Technologies — Islamabad, Pakistan (2008 – 2010)
-- Built Windows and Web apps for global clients.
-- Developed QuickBooks & Outlook plugin integrations.
-- Technologies: WinForms, ASP.NET, QuickBooks API.
+## License
 
----
+This work is published under [MIT][mit] License.
 
-## **Education**
-BS Computer Science (BSCS) — University of Central Punjab  
-CGPA: 3.92 / 4.0
-
----
-
-## **Certifications**
-- AWS Solutions Architect – Associate (2021)
-- SAFe 5 Practitioner (2021)
-- AWS Cloud Practitioner (2020)
-- Microsoft Azure Fundamentals (2020)
-- Microsoft Data Science Essentials (2019)
-
----
-
-## **Contact Me**
-- Phone: +92 345 5119833
-- Email: wm.awan@gmail.com
-- LinkedIn: https://www.linkedin.com/in/waqasmehmood
-- Twitter: https://twitter.com/waqasmehmood
-
+[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
+[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
