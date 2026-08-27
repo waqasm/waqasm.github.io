@@ -1,5 +1,5 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+layout: home
+icon: fas fa-pen-nib
 order: 6
 ---
