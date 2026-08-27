@@ -1,8 +1,6 @@
 ---
 title: "Git Cheatsheet"
-date: 2026-08-27 22:56:00 0000
-categories: [Writing]
-tags: [Technology, CheatSheets]
+date: 2026-08-27 22:56:00 +0000
 description: "A git cheatsheet"
 ---
 
