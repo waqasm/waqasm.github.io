@@ -1,6 +1,6 @@
 ---
 title: "Git Cheatsheet"
-date: 2026-08-27 22:56:00 +0000
+date: 2026-08-27 22:56:00 +0500
 description: "A git cheatsheet"
 ---
 
@@ -183,7 +183,7 @@ git push origin v1.0.0
 
 # Push all local tags
 # --tags sends every tag
-ngit push --tags
+git push --tags
 ```
 
 ## Diff
