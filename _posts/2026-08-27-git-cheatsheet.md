@@ -1,12 +1,9 @@
 ---
 title: "Git Cheatsheet"
-date: 2026-08-27 22:56:00
+date: 2026-08-27 22:56:00 0000
 categories: [CheatSheets]
 tags: [Technology, CheatSheets]
 description: "A git cheatsheet"
-image:
-  path: /assets/img/headers/preview.webp
-  alt: "Git Cheatsheet"
 ---
 
 
