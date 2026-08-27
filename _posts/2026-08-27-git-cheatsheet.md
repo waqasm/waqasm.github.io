@@ -188,7 +188,7 @@ git push origin v1.0.0
 
 # Push all local tags
 # --tags sends every tag
-git push --tags
+ngit push --tags
 ```
 
 ## Diff
